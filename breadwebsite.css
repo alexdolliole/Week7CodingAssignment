@@ -1,0 +1,54 @@
+body {
+background-image: url("https://www.kindpng.com/picc/m/558-5580147_kawaii-bread-cartoon-png-download-bread-kawaii-transparent.png");
+font-weight: bold;
+}
+ 
+a:link {
+color: #01F5F9;
+}
+  
+a:visited {
+color: #F9096B;
+}
+
+html {
+font-family: 'helvetica neue', helvetica, arial, sans-serif;
+}
+  
+a:hover {
+color: green;
+}
+  
+a:active {
+color: #000000;
+}
+  
+tr:nth-child(odd) {
+background-color: #ff33cc;
+}
+  
+tr:nth-child(even) {
+background-color: #e495e4;
+}
+  
+table {
+background-color: #ff33cc;
+}
+
+#submit recipe {
+
+}
+
+.header {
+    color: #D16308;
+}
+
+#abouttext {
+    color: #000000;
+    font-size: 20px;
+}
+
+.bulletpoints {
+    content: "\2022";
+    color: #F9096B;
+}
